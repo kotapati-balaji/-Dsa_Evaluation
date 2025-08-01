@@ -93,4 +93,3 @@ let convert = Number(text);
 
 console.log(convert); 
 console.log(typeof convert);
-
